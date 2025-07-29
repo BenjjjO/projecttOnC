@@ -1,0 +1,2 @@
+# projecttOnC
+guessRandNumbersIn C
